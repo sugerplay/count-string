@@ -1,6 +1,6 @@
 {
   "name": "count-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "count string occurrence.",
   "main": "index.js",
   "scripts": {
